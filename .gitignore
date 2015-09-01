@@ -1,5 +1,4 @@
-settings.txt
-.project
 .classpath
-.build
+.project
+build
 .settings
